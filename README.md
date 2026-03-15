@@ -14,13 +14,13 @@ The project follows the CRISP-DM methodology and consists of the following main 
 6. **Deployment**: Deployment of the trained model using Flask and React for a web-based application interface.
 
 ## Files in the Repository
-- **`Copie_de_Machine_learning_presentation.pptx`**: PowerPoint presentation summarizing the project and its key components.
-- **`Copie_de_final_DT.ipynb`**: Jupyter notebook containing the Decision Tree model for IDS.
-- **`Copie_de_final_KNN.ipynb`**: Jupyter notebook containing the K-Nearest Neighbors model for IDS.
-- **`Copie_de_Intrusion_Detection_Systems.ipynb`**: Jupyter notebook that ties together the models and provides a holistic view of the IDS process.
-- **`final_LR (1).ipynb`**: Jupyter notebook containing the Logistic Regression model for IDS.
-- **`final_RF (1).ipynb`**: Jupyter notebook containing the Random Forest model for IDS.
-- **`final_SVM (2).ipynb`**: Jupyter notebook containing the Support Vector Machine model for IDS.
+- **`Machine_learning_presentation.pptx`**: PowerPoint presentation summarizing the project and its key components.
+- **`DT.ipynb`**: Jupyter notebook containing the Decision Tree model for IDS.
+- **`KNN.ipynb`**: Jupyter notebook containing the K-Nearest Neighbors model for IDS.
+- **`Intrusion_Detection_Systems.ipynb`**: Jupyter notebook that ties together the models and provides a holistic view of the IDS process.
+- **`LR.ipynb`**: Jupyter notebook containing the Logistic Regression model for IDS.
+- **`RF.ipynb`**: Jupyter notebook containing the Random Forest model for IDS.
+- **`SVM.ipynb`**: Jupyter notebook containing the Support Vector Machine model for IDS.
 - **`GMM5.ipynb`**: Jupyter notebook containing a Gaussian Mixture Model (GMM) for IDS.
 
 ## Installation
